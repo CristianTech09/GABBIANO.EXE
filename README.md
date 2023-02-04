@@ -1,4 +1,4 @@
-# GABBIANO.EXE
+# GABBIANO.EXE (il ritorno)
 Un programma basato sulla canzone chiamata "Povero Gabbiano"
 
 Questo software è composto per la maggiorparte da Script Windows, ma è possibile convertirlo in eseguibile .exe tramite questo tool: https://mega.nz/file/1gFQRQKD#ezvuxjAKSezb06ffktvZnkR1RySC2Xmk_Jf5_VnaJ5o
